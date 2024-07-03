@@ -31,7 +31,6 @@
 
 <div>
 <li>pexels and pixabay</li>
-<li>refrence links - w3school</li>
 </div>
 
 <h2 style="margin-top:20px;font-size:20px">Author Info</h2>
